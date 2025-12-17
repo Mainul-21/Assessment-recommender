@@ -1,8 +1,6 @@
-assessment_name,description,skills,job_level
-Verify G+,Measures general cognitive ability including logical and numerical reasoning,logical reasoning;numerical ability;problem solving,fresher
-Coding Assessment,Evaluates software development skills such as Python programming and algorithmic thinking,python;coding;algorithms,entry
-OPQ Personality,Assesses workplace personality traits and behavioral preferences,personality;behavior;teamwork,all
-Situational Judgement Test,Evaluates decision making and judgement in workplace scenarios,decision making;judgement;ethics,all
-Numerical Reasoning Test,Assesses ability to analyze and interpret numerical data,numerical reasoning;data interpretation,fresher
-Mechanical Reasoning Test,Measures understanding of basic mechanical and physical principles,mechanical reasoning;physics,entry
-Verbal Reasoning Test,Assesses ability to understand and analyze written information,verbal reasoning;comprehension,all
+name,description
+Coding Assessment,Test programming skills and problem-solving
+Numerical Reasoning Test,Evaluate numerical and analytical abilities
+Situational Judgement Test,Check decision-making in work situations
+OPQ Personality,Measure personality traits relevant to work
+Verify G+,Assess graduate potential and skills
